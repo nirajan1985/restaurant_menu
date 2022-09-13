@@ -8,7 +8,7 @@ const menu = [
     desc: `Tortilla, coriander, peas, potato, pickle , Onion `,
   },
   {
-    id: 10,
+    id: 2,
     title: "butter chicken",
     category: "Dinner",
     price: 249,
@@ -16,7 +16,7 @@ const menu = [
     desc: `Clay oven chicken tikka, creamy toamto sauce, mozrella and cashew gravy`,
   },
   {
-    id: 11,
+    id: 3,
     title: "chicken briyani",
     category: "Dinner",
     price: 249,
@@ -24,7 +24,7 @@ const menu = [
     desc: `Aromatic rice cooked with chicken and indian spices`,
   },
   {
-    id: 2,
+    id: 4,
     title: "momo (G,N)",
     category: "starter",
     price: 149,
@@ -32,7 +32,7 @@ const menu = [
     desc: `Soft tender chicken,coriander, chilly, garlic, tomato chutney `,
   },
   {
-    id: 3,
+    id: 5,
     title: "cripsy okra (G)",
     category: "starter",
     price: 129,
@@ -40,7 +40,7 @@ const menu = [
     desc: `Fried okra with onion, tomato, coriander, garlic and ginger`,
   },
   {
-    id: 4,
+    id: 6,
     title: "sea food cracker(G)",
     category: "starter",
     price: 149,
@@ -48,7 +48,7 @@ const menu = [
     desc: `Mix seafood, lemon and five spices `,
   },
   {
-    id: 5,
+    id: 7,
     title: "calamari pakora (G,M)",
     category: "starter",
     price: 159,
@@ -56,7 +56,7 @@ const menu = [
     desc: `Squid fritters, tomato, chickpeas flour `,
   },
   {
-    id: 6,
+    id: 8,
     title: "1947 special salad",
     category: "starter",
     price: 109,
@@ -64,7 +64,7 @@ const menu = [
     desc: `Lettuce with cucumber, tomato, onion, coriander, apple and chilly with special sauce`,
   },
   {
-    id: 7,
+    id: 9,
     title: "devine tandoori chicken (M)",
     category: "starter",
     price: 199,
@@ -73,7 +73,7 @@ const menu = [
   },
 
   {
-    id: 8,
+    id: 10,
     title: "chicken tikka (M)",
     category: "starter",
     price: 209,
@@ -82,7 +82,7 @@ const menu = [
   },
 
   {
-    id: 9,
+    id: 11,
     title: "beef halcyon (M)",
     category: "starter",
     price: 279,
